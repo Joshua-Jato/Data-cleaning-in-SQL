@@ -4,4 +4,4 @@
 3. Removed Duplictaes using Row_Number function alongside CTE
 4. Used case statement to replace 'Y' with 'Yes' and 'N' with 'No'
 5. Deleted unused columns using the drop column function
-### Kindly find the attached raw file and data cleaning processes codes
+### Kindly find the attached raw data set and the data cleaning processes codes
